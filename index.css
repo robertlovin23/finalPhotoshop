@@ -1,0 +1,49 @@
+.navColor{
+    background-color: #ababab!important;
+    height: 50px;
+}
+.col{
+    padding-right:0px!important;
+    padding-left: 0px!important;
+}
+h1{
+    font-size: 4rem!important;
+}
+.titleBox{
+    padding: 150px 0px 200px 100px;
+    width:600px;
+}
+.desc{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.background{
+    background-image: url("assets/mount.jpg");
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+#myVideo {
+    width: 100%;
+  }
+.project{
+    height: 300px;
+}
+.projImg{
+    width: 100%;
+}
+.centerText{
+    text-align:center;
+    padding-top: 150px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin: 0 auto;
+}
+#week9{
+    padding-top: 80px!important;
+}
